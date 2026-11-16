@@ -1,0 +1,16 @@
+# Local build products
+/build/
+/dist/
+
+# Local test host, not part of the plugin
+/tests/
+
+# Visual Studio and editor state
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Windows noise
+Thumbs.db
+Desktop.ini
